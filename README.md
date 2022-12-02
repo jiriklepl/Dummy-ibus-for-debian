@@ -4,6 +4,8 @@ This package provides a dummy implementation for the ibus package (commonly requ
 
 ## How to build
 
+**Before you proceed with the following steps, make sure none of the packages that are important to you or to your system depend on the *ibus* package. `apt remove --dry-run ibus` should list all packages (even indirectly) depending on *ibus* among the REMOVED packages (and you can run it without the root privileges).**
+
 Make sure you have the *equivs* package, then simply run:
 
 ```sh
