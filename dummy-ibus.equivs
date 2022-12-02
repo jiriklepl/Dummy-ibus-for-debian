@@ -1,0 +1,6 @@
+Package: ibus
+Version: 99:99
+Architecture: all
+Maintainer: Jiří Klepl <klepl@d3s.mff.cuni.cz>
+Description: dummy Intelligent Input Bus - core
+ A dummy package for the ibus package.
